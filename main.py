@@ -1,4 +1,6 @@
-from tools import extract
+def main():
+    pass
 
-main_matrix = extract("data.txt")
+if __name__ == '__main__':
+    main()
 
